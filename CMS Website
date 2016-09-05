@@ -1,4 +1,0 @@
-
-Pretty much my CMS project that I've worked on a couple of months ago. Used the knowledge from there to work on this project. On this website (CMS) there are a couple of coding errors, such as registering an account. Once you register it will use the user password and encrypt it. However when it encrypt it that will be the password . For example password: Test123 will be 1$Zb..um0.$HTo2fQwvBNdjtdUbPdNKn/, and that will be your password and not Test123.
-
-Besides that the log out issue is another problem/nextpage  
